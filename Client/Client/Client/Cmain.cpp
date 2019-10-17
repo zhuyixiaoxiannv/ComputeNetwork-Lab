@@ -252,9 +252,7 @@ int main(void) {
 			}
 			else
 			{
-				for (int j = 0; j < 100; ++j) {
-					Ask('T');
-				}
+				Ask('T');
 				lock_print(1);
 			}
 			break;
