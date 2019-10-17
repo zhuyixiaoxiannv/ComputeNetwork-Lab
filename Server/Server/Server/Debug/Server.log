@@ -1,0 +1,8 @@
+﻿  Smain.cpp
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\server\server\server\smain.cpp(18): warning C4018: “<”: 有符号/无符号不匹配
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\server\server\server\smain.cpp(92): warning C4018: “<”: 有符号/无符号不匹配
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\server\server\server\smain.cpp(131): warning C4018: “>”: 有符号/无符号不匹配
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\server\server\server\smain.cpp(192): warning C4477: “printf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“int”
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\server\server\server\smain.cpp(308): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17763.0\um\winsock2.h(1849): note: 参见“inet_ntoa”的声明
+  Server.vcxproj -> E:\Graduate\2019-2020First\ComputerNetworks\Experiments\Experiment7\Server\Server\Debug\Server.exe

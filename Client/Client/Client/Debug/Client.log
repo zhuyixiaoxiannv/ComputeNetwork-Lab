@@ -1,0 +1,6 @@
+﻿  Cmain.cpp
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\client\client\client\cmain.cpp(235): warning C4477: “scanf”: 格式字符串“%d”需要类型“int *”的参数，但可变参数 1 拥有了类型“u_short *”
+  e:\graduate\2019-2020first\computernetworks\experiments\experiment7\client\client\client\cmain.cpp(235): note: 请考虑在格式字符串中使用“%hd”
+e:\graduate\2019-2020first\computernetworks\experiments\experiment7\client\client\client\cmain.cpp(238): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  d:\windows kits\10\include\10.0.17763.0\um\winsock2.h(1831): note: 参见“inet_addr”的声明
+  Client.vcxproj -> E:\Graduate\2019-2020First\ComputerNetworks\Experiments\Experiment7\Client\Client\Debug\Client.exe
